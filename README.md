@@ -1,6 +1,6 @@
 # HS-SLAM
 
-This is the repository that contains source code for the [HS-SLAM website](https://zorangong.github.io/HS-SLAM.github.io/).
+This is the repository that contains source code for the [HS-SLAM website](https://zorangong.github.io/HS-SLAM/).
 
 If you find Nerfies useful for your work please cite:
 ```
