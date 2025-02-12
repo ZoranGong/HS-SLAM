@@ -6,8 +6,8 @@ If you find Nerfies useful for your work please cite:
 ```
 @inproceedings{Gong2025HS-SLAM,
   author    = {Ziren Gong and Fabio Tosi and Youmin Zhang and Stefano Mattoccia and Matteo Poggi},
-  title     = {{HS-SLAM}: Hybrid Representation with Structural Supervision for Improved Dense {SLAM}},
-  booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation ({ICRA})},
+  title     = {HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM},
+  booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
   year      = {2025}
 }
 ```
